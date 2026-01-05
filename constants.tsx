@@ -11,7 +11,7 @@ export const PROFILE = {
   email: "minthwaykhaing28@gmail.com",
   linkedin: "https://www.linkedin.com/in/minthway-khaing-357a82239/",
   github: "https://github.com/MinThwayKhaing",
-  portfolio: "https://minthwaykhaing.github.io/Porfolio/",
+  portfolio: "https://minthwaykhaing.github.io/newPortfolio/",
 };
 
 export const CONTACT_LINKS = [
